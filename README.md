@@ -1,4 +1,4 @@
-# vision_artificial
+# Visión artificial
 Repositorio visión artificial Universidad Nacional de Colombia. Grupo 10
 
 Integrantes
